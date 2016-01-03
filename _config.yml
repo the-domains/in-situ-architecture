@@ -1,7 +1,7 @@
 name: 'In*Situ Architecture'
 favicon: null
-layout_spectrum: 0.8189127298537642
-typography_spectrum: 0.036567786475643516
+layout_spectrum: 0.4261
+typography_spectrum: 0.89618
 title: 'In*Situ Architecture'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.29028723924420774
+    - '#ebfffe'
+    - '#59443f'
+    - '#a62625'
+    - '#bcb6c8'
+    - '#211c1e'
+  brandStrength: 0.25
   lightness: 0.3551787850446999
-  saturation: 0.9849387230351567
+  saturation: 0.625
   rhythmicContrast: 0.6210624445229769
 purpose: []
