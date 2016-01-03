@@ -1,0 +1,28 @@
+name: 'In*Situ Architecture'
+favicon: null
+layout_spectrum: 0.8189127298537642
+typography_spectrum: 0.036567786475643516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.29028723924420774
+  lightness: 0.3551787850446999
+  saturation: 0.9849387230351567
+  rhythmicContrast: 0.6210624445229769
+purpose: []
