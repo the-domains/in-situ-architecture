@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[In*Situ Architecture]]></title>
         <description><![CDATA[In*Situ Architecture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/in-situ-architecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 00:43:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 00:46:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/in-situ-architecture/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[In*Situ Architecture]]></title>
             <description><![CDATA[<article><h1>In*Situ Architecture</h1><p>In*Situ Architecture provides full architectural services focusing on contemporary design excellence for the Chihuahuan Desert Region.  Our approach to design — is not base on a pre-determined aesthetic or rigid “Signature style.”  It is an approach that grows naturally from a quest for ideas and answers. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1234b8136d06cb6224a4679743d6e66bf9f4374.jpg"></article>]]></description>
-            <link>undefinedinsitu-architecture/index.html</link>
+            <link>https://thegrid.ai/in-situ-architecture/insitu-architecture/index.html</link>
             <guid isPermaLink="false">d2e1ae42-8db7-470c-9d96-52dd60df7521</guid>
             <pubDate>Mon, 04 Jan 2016 00:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mulligan Building (City 2)]]></title>
+            <description><![CDATA[<article><h1>Mulligan Building (City 2)</h1><p>Historic Rehabilitation project for the City of El Paso</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63e69fc08cd456ad2954837d6d9522b9ac2ce15e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/in-situ-architecture/eb716409-75ed-4322-8680-e29434a8c8b3/index.html</link>
+            <guid isPermaLink="false">eb716409-75ed-4322-8680-e29434a8c8b3</guid>
+            <pubDate>Mon, 04 Jan 2016 00:46:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
