@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[In*Situ Architecture]]></title>
+        <description><![CDATA[In*Situ Architecture]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 00:43:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In*Situ Architecture]]></title>
+            <description><![CDATA[<article><h1>In*Situ Architecture</h1><p>In*Situ Architecture provides full architectural services focusing on contemporary design excellence for the Chihuahuan Desert Region.  Our approach to design — is not base on a pre-determined aesthetic or rigid “Signature style.”  It is an approach that grows naturally from a quest for ideas and answers. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1234b8136d06cb6224a4679743d6e66bf9f4374.jpg"></article>]]></description>
+            <link>undefinedinsitu-architecture/index.html</link>
+            <guid isPermaLink="false">d2e1ae42-8db7-470c-9d96-52dd60df7521</guid>
+            <pubDate>Mon, 04 Jan 2016 00:43:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
